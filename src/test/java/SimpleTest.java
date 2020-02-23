@@ -12,7 +12,14 @@ public class SimpleTest {
     }
     @Test
     public void FailTest(){
-//        Assert.fail(" fail");
+        Assert.fail(" fail");
     }
+    @Test
+    public void test1(){
+        System.out.println("dfewg");
+    }
+
+
+
 
 }
