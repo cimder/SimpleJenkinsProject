@@ -7,6 +7,6 @@ public class SimpleTest {
     }
     @Test
     public void secondTest(){
-        System.out.println("Do not fail");
+        System.out.println("Do not fail again");
     }
 }
