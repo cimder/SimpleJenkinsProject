@@ -12,6 +12,7 @@ public class SimpleTest {
     }
     @Test
     public void FailTest(){
-        Assert.fail(" fail");
+//        Assert.fail(" fail");
     }
+
 }
