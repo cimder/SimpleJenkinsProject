@@ -5,4 +5,8 @@ public class SimpleTest {
     public void Tset(){
         System.out.println("This test will always pass");
     }
+    @Test
+    public void secondTest(){
+        System.out.println("Do not fail");
+    }
 }
